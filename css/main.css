@@ -39,4 +39,13 @@ body, html {
   background: rgba(0, 0, 0, 0.6);
 }
 
+.col-sm-4 {
+  margin-bottom: 1rem !important;
+}
+
+.card-img-top {
+  max-height: 299px;
+  max-width: 450px;
+}
+
 /*# sourceMappingURL=main.css.map */
