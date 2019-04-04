@@ -12,3 +12,34 @@ body, html {
     margin: 0;
     padding: 0;
 }
+
+#hero {
+    
+}
+
+.jumbotron {
+    min-height:750px;
+    background-image: url("../img/carousel_2.jpg");
+    background-size: cover;
+    color: #fff;
+    background-position: center;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+#jumbotron-text {
+    text-shadow: 1px 1px 1px #000;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+#mission {
+    text-shadow: 1px 1px 1px #000;
+}
+
+#team {
+    text-shadow: 1px 1px 1px #000;
+}
+
+.card {
+    margin-bottom: .5rem !important;
+}
