@@ -43,9 +43,10 @@ body, html {
 
 .card {
     margin-bottom: .5rem !important;
-}
-
-.card-img {
     max-width: 448px;
     max-height: 448px;
+}
+
+.card-title {
+    background: rgba(0, 0, 0, 0.6);
 }
